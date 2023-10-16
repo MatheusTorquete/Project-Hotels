@@ -4,6 +4,10 @@
 
 Este projeto tem como objetivo analisar dados de hotelaria e extrair insights valiosos para apoiar decisões estratégicas. Os dados foram inicialmente extraídos de arquivos Excel e inseridos em um banco de dados SQL. Em seguida, foram realizadas várias consultas SQL para transformar e preparar os dados para análise no Power BI. A análise incluiu questões relacionadas à receita por ano de cada hotel, união de dados de diferentes tabelas e criação de visões e dashboards informativos.
 
+# Visual
+![image](https://github.com/MatheusTorquete/Project-Hotels/assets/94683422/18ab75ad-4976-481a-9e03-ed7db5f6565b)
+
+
 ## Passos Realizados
 
 ### 1. **Inserção de Dados no Banco de Dados**
