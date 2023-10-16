@@ -50,13 +50,6 @@ Este projeto tem como objetivo analisar dados de hotelaria e extrair insights va
 
 - **Tendências nos Dados:** Utilizamos várias visualizações, como gráficos de linhas e gráficos de barras empilhadas, para identificar tendências nos dados. Isso incluiu padrões sazonais, comportamentos dos hóspedes e preferências de refeições.
 
-### 4. **Criação de Dashboards Interativos**
-
-- **Receita Hoteleira:** Criamos um dashboard interativo que mostra a receita dos hotéis por ano e por tipo de hotel. Isso incluiu análises comparativas e variações percentuais.
-
-- **Ocupação e Estacionamento:** Criamos visualizações que mostram a taxa de ocupação dos hotéis ao longo do ano. Com base nessas informações, decidimos sobre a necessidade de aumentar o estacionamento.
-
-- **Padrões de Mercado:** Analisamos dados de segmentação de mercado para entender as preferências dos hóspedes. Criamos visualizações que mostram de onde vêm a maioria dos hóspedes e suas preferências de refeições.
 
 ## Conclusões e Resultados
 
